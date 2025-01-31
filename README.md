@@ -1,0 +1,2 @@
+# SQL Scripts for Comprehensive World Cup Analytics
+ This collection includes SQL queries designed to analyze various aspects of World Cup data. The queries cover group analysis, match history, team performance, and player statistics. They utilize techniques such as JOINs, CTEs, window functions, and materialized views to extract actionable insights and optimize performance. The scripts help visualize trends, compare historical data, and support decision-making through detailed data aggregation and analysis
